@@ -1,0 +1,35 @@
+body{
+  text-align: center;
+  color:darkslategray;    
+}
+h1{
+  font-size:30px;
+  color: darkslategray;
+  font-family:monospace;
+}
+h3{
+  font-size:20px;
+  color: darkslategray;
+  font-family: monospace;
+}
+p{ font-size:15px;
+  color: darkslategray;
+  font-family: monospace;
+}
+ol{
+  font-family: monospace;
+  color: darkslategray;
+  font-size:18px;
+}
+img{
+  border-radius:20;
+  border-color:darkslategray;
+  float: right ;
+  width: 300px;
+  margin: 10px;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+  height: 250px;
+
+}
